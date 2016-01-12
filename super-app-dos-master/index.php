@@ -5,7 +5,7 @@
 </head> 
 <body>
 
-<h1>Icono del día</h1>
+<h1>CAMBIO DE TITULO y si sale a produccion, la he cagao</h1>
 
 <h3>Hola internautas</h3>
 <img src="randomicon.php"/>
